@@ -11,8 +11,6 @@ The program simulates a real-world client scenario where a startup is experienci
 |------|-------------|
 | `task1-hosting-architecture.md` | Technical summary of AWS services used, design trade-offs, and cost model |
 | `client-email-exercise.md` | Simulated email response to a client CTO proposing the new AWS architecture |
-| *(optional)* `architecture.png` | System architecture diagram (if you include one later) |
-| *(optional)* `reflection.md` | Personal takeaways and how this experience strengthened my cloud skills |
 
 ---
 
